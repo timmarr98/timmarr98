@@ -5,7 +5,7 @@ I am a Software Engineer and Computer Science graduate from Florida Internationa
 <br>
 Using programming as a tool to solve problems and automate tasks is my specialty.
 
-- ⚡ Fun fact: I created an entirely autoamted FOREX Scalping trading bot that has been profitable (+ $1,100) in the past year!
+- ⚡ Fun fact: I created an entirely automated <a href = "https://seniorproject.cis.fiu.edu/seniorprojects/efort-efst/"> FOREX Scalping trading bot </a> that has been profitable (+ $1,100) in the past year!
 
 ### Skills
 I primarily code with Python, Java and Dart (Flutter). I love working with REST API's and collecting data!
