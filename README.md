@@ -2,7 +2,7 @@
 
 I am a Software Engineer and Computer Science graduate from Florida International Unversity. 
 <br>
-Using programming as a tool to solve problems and automate 
+Using programming as a tool to solve problems and automate tasks is my specialty.
 
 - ⚡ Fun fact: I created an entirely autoamted FOREX Scalping trading bot that has been profitable (+ $1,100) in the past year!
 
