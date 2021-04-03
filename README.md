@@ -1,9 +1,13 @@
 ### Hello there! I am Timothy Marr
 
 
+I am a Software Engineer
 ### Skills I'm Focusing On
 I primarily code with Python on side projects, but I have experiecne with Java, Dart, C, C# and MQL5. 
 
+
+#Contact Me
+If you would like to speak with me, about anything, feel free to contact me via email or LinkedIn.
 
 
 <!--
