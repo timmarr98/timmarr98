@@ -1,6 +1,11 @@
 ### Hello there! I am Timothy Marr
 
 
+#Skills I'm Focusing On
+I primarily code with Python on side projects, but I have experiecne with Java, Dart, C, C# and MQL5. 
+
+
+
 <!--
 **timmarr98/timmarr98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
