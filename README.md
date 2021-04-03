@@ -7,6 +7,9 @@ I am a Software Engineer and Computer Science graduate from Florida Internationa
 ### Skills
 I primarily code with Python, Java and Dart (Flutter). I love working with REST API's and collecting data!
 
+### Currently working on
+I am currently working on CalmMe, an anxiety wellness app, and REEK, a 2D platformer.
+
 ### Contact Me
 If you would like to speak with me, about anything, feel free to contact me via email or LinkedIn.
 <br>
