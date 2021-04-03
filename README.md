@@ -7,6 +7,8 @@ I primarily code with Python, Java and Dart (Flutter). I love working with REST 
 
 # Contact Me
 If you would like to speak with me, about anything, feel free to contact me via email or LinkedIn.
+[linkedin]: https://www.linkedin.com/in/timothy-marr-26a041186/
+
 
 
 <!--
