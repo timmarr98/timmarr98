@@ -1,8 +1,10 @@
 ### Hello there! I am Timothy Marr
 
 I am a Software Engineer and Computer Science graduate from Florida International Unversity. 
+<br>
+Using programming as a tool to solve problems and automate 
 
-
+- ⚡ Fun fact: I created an entirely autoamted FOREX Scalping trading bot that has been profitable (+ $1,100) in the past year!
 
 ### Skills
 I primarily code with Python, Java and Dart (Flutter). I love working with REST API's and collecting data!
