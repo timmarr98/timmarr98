@@ -1,7 +1,7 @@
 ### Hello there! I am Timothy Marr
 
 
-#Skills I'm Focusing On
+# Skills I'm Focusing On
 I primarily code with Python on side projects, but I have experiecne with Java, Dart, C, C# and MQL5. 
 
 
