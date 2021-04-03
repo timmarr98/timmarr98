@@ -1,12 +1,11 @@
 ### Hello there! I am Timothy Marr
 
+I am a Software Engineer and Computer Science graduate from Florida International Unversity. 
 
-I am a Software Engineer
 ### Skills I'm Focusing On
-I primarily code with Python on side projects, but I have experiecne with Java, Dart, C, C# and MQL5. 
+I primarily code with Python, Java and Dart (Flutter). I love working with REST API's and collecting data!
 
-
-#Contact Me
+# Contact Me
 If you would like to speak with me, about anything, feel free to contact me via email or LinkedIn.
 
 
