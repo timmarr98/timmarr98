@@ -11,7 +11,6 @@ Using programming as a tool to solve problems and automate tasks is my specialty
 I primarily code with Python, Java and Dart (Flutter). I love working with REST API's and collecting data!
 
 ### Currently working on
-I am currently working on CalmMe, an anxiety wellness app, and REEK, a 2D platformer.
 <ul>
   <li>
   CalmMe : An anxiety welness app (Flutter) 🍃
