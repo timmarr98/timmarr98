@@ -17,6 +17,7 @@ I am currently working on CalmMe, an anxiety wellness app, and REEK, a 2D platfo
   REEK : 2D Platformer (Unity) 🕹️
   </li>
 </ul>
+
 ### Contact Me
 If you would like to speak with me, about anything, feel free to contact me via email or LinkedIn.
 <br>
