@@ -15,6 +15,7 @@ If you would like to speak with me, about anything, feel free to contact me via 
 <br>
 <br>
 <a href="https://www.linkedin.com/in/timothy-marr-26a041186/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+<a href = "Resume_TimothyMarr (1).pdf"><img src = "imgs/cv.svg" alt = "Cv"></a>
 
 
 
