@@ -2,7 +2,9 @@
 
 I am a Software Engineer and Computer Science graduate from Florida International Unversity. 
 
-### Skills I'm Focusing On
+
+
+### Skills
 I primarily code with Python, Java and Dart (Flutter). I love working with REST API's and collecting data!
 
 ### Contact Me
