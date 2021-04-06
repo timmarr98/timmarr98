@@ -20,6 +20,9 @@ I primarily code with Python, Java and Dart (Flutter). I love working with REST 
   </li>
 </ul>
 
+### Latest Project
+Checkout my <a href = "https://github.com/timmarr98/Word-Guessing">Word Guessing </a> python game. See what level you can get to and let me know! 
+
 ### Contact Me
 If you would like to speak with me, about anything, feel free to contact me via email or LinkedIn.
 <br>
