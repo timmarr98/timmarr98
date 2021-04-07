@@ -24,7 +24,7 @@ I primarily code with Python, Java and Dart (Flutter). I love working with REST 
 Checkout my <a href = "https://github.com/timmarr98/Word-Guessing">Word Guessing </a> python game. See what level you can get to and let me know! 
 
 ### Contact Me
-If you would like to speak with me, about anything, feel free to contact me via email or LinkedIn.
+If you would like to speak with me, about anything, feel free to contact me via email (tmarr006@fiu.edu) or LinkedIn.
 <br>
 <br>
 <a href="https://www.linkedin.com/in/timothy-marr-26a041186/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
