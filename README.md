@@ -1,4 +1,4 @@
-### Hello there! I am Timothy Marr
+### Hello there! I am Timothy Marr 
 
 I am a Software Engineer and Computer Science graduate from Florida International Unversity. 
 <br>
