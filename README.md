@@ -18,6 +18,9 @@ I primarily code with Python, Java and Dart (Flutter). I love working with REST 
   <li>
   REEK : 2D Platformer (Unity) 🕹️
   </li>
+  <li>
+    InfoBot: A discord bot that gives users a profile section, games, etc!
+  </li>
 </ul>
 
 ### Latest Project
