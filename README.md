@@ -16,9 +16,6 @@ I primarily code with Python, Java and Dart (Flutter). I love working with REST 
   CalmMe : An anxiety welness app (Flutter) 🍃
   </li>
   <li>
-  REEK : 2D Platformer (Unity) 🕹️
-  </li>
-  <li>
     InfoBot: A discord bot that gives users a profile section, games, etc!
   </li>
 </ul>
