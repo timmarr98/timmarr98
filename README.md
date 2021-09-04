@@ -15,13 +15,10 @@ I primarily code with Python, Java and Dart (Flutter). I love working with REST 
   <li>
   CalmMe : An anxiety welness app (Flutter) 🍃
   </li>
-  <li>
-    InfoBot: A discord bot that gives users a profile section, games, etc!
-  </li>
 </ul>
 
 ### Latest Project
-Checkout my <a href = "https://github.com/timmarr98/Word-Guessing">Word Guessing </a> python game. See what level you can get to and let me know! 
+Checkout my <a href = "https://github.com/timmarr98/JDAwidebot"> Discord Bot </a> InfoBot. Let me know if you would like to add it to your server!
 
 ### Contact Me
 If you would like to speak with me, about anything, feel free to contact me via email (tmarr006@fiu.edu) or LinkedIn.
