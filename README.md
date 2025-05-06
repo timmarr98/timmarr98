@@ -1,24 +1,3 @@
-### Hello there! I am Timothy Marr 
-
-I am a Software Engineer and Computer Science graduate from Florida International Unversity. 
-<br>
-<br>
-Using programming as a tool to solve problems and automate tasks is my specialty.
-
-- ⚡ Fun fact: I created an entirely automated <a href = "https://seniorproject.cis.fiu.edu/seniorprojects/efort-efst/"> FOREX Scalping trading bot </a> that has been profitable (+ $1,100) in the past year!
-
-### Skills
-I primarily code with Python, Java and Dart (Flutter). I love working with REST API's and collecting data!
-
-### Currently working on
-<ul>
-  <li>
-  CalmMe : An anxiety welness app (Flutter) 🍃
-  </li>
-</ul>
-
-### Latest Project
-Checkout my <a href = "https://github.com/timmarr98/JDAwidebot"> Discord Bot </a> InfoBot. Let me know if you would like to add it to your server!
 
 ### Contact Me
 If you would like to speak with me, about anything, feel free to contact me via email (tmarr006@fiu.edu) or LinkedIn.
